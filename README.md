@@ -6,15 +6,15 @@
 This repository includes a constrained version of DogSim. The model is built on the pedestrians movement module in the Multiple Activities Transport and Mobility (MATraM) Agent-Based Model (ABM)[^reference].
 
 The model includes two types of agents:
-    - Pedestrians: They move in looped traips in green spaces. Some of them own dogs.
-    - Dogs: They move with their owner. They get attracted to each other and to trees in space.
+- Pedestrians: They move in looped traips in green spaces. Some of them own dogs.
+- Dogs: They move with their owner. They get attracted to each other and to trees in space.
 
 This version runs on two case studies in Oxford, UK:
-    1. Ports Meadow
-    2. Burgess Field
-Please note that modifying the `Area` chooser in Netlogo from one case study to another will require saving the model and restarting NetLogo to avoid errors caused by loading the GIS files into the model space.
+1. Ports Meadow
+2. Burgess Field
+Please note that modifying the `Area` chooser in NetLogo from one case study to another will require saving the model and restarting NetLogo to avoid errors caused by loading the GIS files into the model space.
 
-The Burgess Field case study can be initialised with different scenarios designed to showcase the model and the different types of agents.
+The Burgess Field case study can be initialised with different scenarios by modifying the `Scenarios` chooser. The scenarios designed to showcase the model and the different types of agents. The "Baseline" scenario allows for generating different numbers of agents, whereas the other scenarios limit the model to one pedestrian at a time. 
 
 To view the movement of agents, it is recommended to slow down the model speed (approximately 25% of the full speed should produce smooth visuals)
 
