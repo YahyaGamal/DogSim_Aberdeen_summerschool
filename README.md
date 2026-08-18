@@ -16,4 +16,6 @@ Please note that modifying the `Area` chooser in Netlogo from one case study to 
 
 The Burgess Field case study can be initialised with different scenarios designed to showcase the model and the different types of agents.
 
+To view the movement of agents, it is recommended to slow down the model speed (approximately 25% of the full speed should produce smooth visuals)
+
 [^reference]: Gamal, Y., Colasanti, R., Polhill, G., Mitomi, T., Suel, E., & Heppenstall, A. (2026). *MATraM: A Multi-Activity Transport and Mobility Agent-Based Model for Activity Modifications*. arXiv. https://doi.org/10.48550/arXiv.2605.30547
