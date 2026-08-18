@@ -6,7 +6,7 @@
 This repository includes a constrained version of DogSim. The model is built on the pedestrians movement module in the Multiple Activities Transport and Mobility (MATraM) Agent-Based Model (ABM)[^reference].
 
 The model includes two types of agents:
-- Pedestrians: They move in looped traips in green spaces. Some of them own dogs.
+- Pedestrians: They move in looped trails in green spaces. Some of them own dogs.
 - Dogs: They move with their owner. They get attracted to each other and to trees in space.
 
 This version runs on two case studies in Oxford, UK:
