@@ -1,6 +1,6 @@
+# DogSim 
 <img src="https://github.com/YahyaGamal/DogSim_Aberdeen_summerschool/blob/main/Data/logo.png?raw=true" alt="drawing" width="125"/>
 
-# DogSim 
 ## (Version for Aberdeen Summer School)
 
 This repository includes a constrained version of DogSim. The model is built on the pedestrians movement module in the Multiple Activities Transport and Mobility (MATraM) Agent-Based Model (ABM)[^reference].
