@@ -15,7 +15,7 @@ This version runs on two case studies in Oxford, UK:
 
 Please note that modifying the `Area` chooser in NetLogo from one case study to another will require saving the model and restarting NetLogo to avoid errors caused by loading the GIS files into the model space.
 
-The Burgess Field case study can be initialised with different scenarios by modifying the `Scenarios` chooser. The scenarios designed to showcase the model and the different types of agents. The "Baseline" scenario allows for generating different numbers of agents, whereas the other scenarios limit the model to one pedestrian at a time. 
+The Burgess Field case study can be initialised with different scenarios by modifying the `Scenarios` chooser. The scenarios are designed to showcase the model and the different types of agents. The "Baseline" scenario allows for generating different numbers of agents, whereas the other scenarios limit the model to one pedestrian at a time. 
 
 To view the movement of agents, it is recommended to slow down the model speed (approximately 25% of the full speed should produce smooth visuals)
 
